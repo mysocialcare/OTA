@@ -1,0 +1,30 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "filename": "LEGIONOS-0.1-vince-OFFICIAL-20190312-1925.zip",
+  "changelog": "- Initial Test\n",
+  "filesize": "575668224",
+  "md5": "8869501f6d821e5dccef9b8f09fd905d",
+  "build_date": "20190312",
+  "device": "vince",
+  "url": "https://downloads.sourceforge.net/project/legionos/vince/LEGIONOS-0.1-vince-OFFICIAL-20190312-1925.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Flegionos%2Ffiles%2Fvince%2F&ts=1552420607&use_mirror=liquidtelecom",
+  "donate_url": "https://paypal.me/rajkale99",
+  "developer_url": "http://github.com/rajkale99",
+  "news_url": "https://github.com/LegionRom",
+  "developer": "Raj Kale",
+  "error": "false",
+  "website_url": "https://t.me/legionos",
+  "forum_url": "",
+  "device_brand": "Xiaomi",
+  "device_model": "Redmi 5 Plus"
+}
