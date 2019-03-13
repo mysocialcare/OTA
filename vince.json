@@ -3,7 +3,7 @@
     {
       "title": "Magisk",
       "summary": "Magisk",
-      "url": "\"http://tiny.cc/latestmagisk"
+      "url": "http://tiny.cc/latestmagisk"
     },
     {
       "title": "Magisk",
@@ -12,7 +12,7 @@
     }
   ],
   "filename": "LEGIONOS-0.1-vince-OFFICIAL-20190312-1925.zip",
-  "changelog": "- Initial Test\n",
+  "changelog": "-Initial Test\n",
   "filesize": "574641652",
   "md5": "8869501f6d821e5dccef9b8f09fd905d",
   "build_date": "20190312",
@@ -21,7 +21,7 @@
   "donate_url": "https://paypal.me/rajkale99",
   "developer_url": "http://github.com/rajkale99",
   "news_url": "https://github.com/LegionRom",
-  "developer": "Raj S Kale",
+  "developer": "Rajkale99",
   "error": "false",
   "website_url": "https://t.me/legionos",
   "forum_url": "",
